@@ -1,1 +1,1 @@
-This foldere contains .cpp or other source files
+This folder contains .cpp or other source files

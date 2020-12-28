@@ -1,1 +1,1 @@
-This folder contains static (or mb dynamic) libraries
+This folder contains libraries

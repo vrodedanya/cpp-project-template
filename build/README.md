@@ -1,1 +1,1 @@
-This folder contains makefile and needed for build project
+This folder contains makefile and needed for building project
